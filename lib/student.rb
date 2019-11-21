@@ -9,4 +9,3 @@ class Student < User
     return knowledge
   end
 end
-  
