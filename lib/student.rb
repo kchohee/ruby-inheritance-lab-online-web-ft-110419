@@ -5,7 +5,7 @@ class Student < User
   def learn(string_knowledge)
     knowledge << string_knowledge
   end
-  def knowledge
-    return knowledge
-  end
+  # def knowledge
+  #   return knowledge
+  # end
 end
