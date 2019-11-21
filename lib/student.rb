@@ -1,4 +1,4 @@
-class < Student
+class < User
   def initialize
     knowledge =[]
   end
